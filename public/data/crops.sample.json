@@ -1,0 +1,171 @@
+[
+  {
+    "regionId": "NTP",
+    "crop": "水稻",
+    "sciName": "Oryza sativa",
+    "sowing": [
+      2,
+      3
+    ],
+    "harvest": [
+      7,
+      8,
+      11
+    ],
+    "fertilization": [
+      {
+        "stage": "基肥",
+        "months": [
+          2
+        ],
+        "ratio": "40%"
+      },
+      {
+        "stage": "一追",
+        "months": [
+          3
+        ],
+        "ratio": "30%"
+      },
+      {
+        "stage": "二追",
+        "months": [
+          4
+        ],
+        "ratio": "30%"
+      }
+    ],
+    "daysToHarvest": "120–150",
+    "notes": "一期與二期作時序依地區略有差異",
+    "sources": [
+      "作物施肥手冊（稻作）",
+      "水稻栽培管理技術手冊"
+    ]
+  },
+  {
+    "regionId": "TXG",
+    "crop": "甘藷",
+    "sciName": "Ipomoea batatas",
+    "sowing": [
+      3,
+      4
+    ],
+    "harvest": [
+      7,
+      8,
+      9
+    ],
+    "fertilization": [
+      {
+        "stage": "基肥",
+        "months": [
+          3
+        ]
+      },
+      {
+        "stage": "追肥",
+        "months": [
+          4,
+          5
+        ]
+      }
+    ],
+    "daysToHarvest": "110–140",
+    "notes": "耐旱；砂質壤土生長佳",
+    "sources": [
+      "作物施肥手冊（甘藷）"
+    ]
+  },
+  {
+    "regionId": "KHH",
+    "crop": "番茄",
+    "sciName": "Solanum lycopersicum",
+    "sowing": [
+      9,
+      10
+    ],
+    "harvest": [
+      12,
+      1,
+      2
+    ],
+    "fertilization": [
+      {
+        "stage": "基肥",
+        "months": [
+          9
+        ]
+      },
+      {
+        "stage": "開花前追肥",
+        "months": [
+          10,
+          11
+        ]
+      }
+    ],
+    "notes": "結果期注意鈣鎂元素",
+    "sources": [
+      "作物施肥手冊（番茄）"
+    ]
+  },
+  {
+    "regionId": "TNN",
+    "crop": "芒果",
+    "sciName": "Mangifera indica",
+    "sowing": [],
+    "harvest": [
+      5,
+      6,
+      7
+    ],
+    "fertilization": [
+      {
+        "stage": "結果後追肥",
+        "months": [
+          7,
+          8
+        ]
+      },
+      {
+        "stage": "花前追肥",
+        "months": [
+          12,
+          1
+        ]
+      }
+    ],
+    "notes": "花期易受低溫影響",
+    "sources": [
+      "作物施肥手冊（芒果）"
+    ]
+  },
+  {
+    "regionId": "YUN",
+    "crop": "蔥",
+    "sciName": "Allium fistulosum",
+    "sowing": [
+      8,
+      9
+    ],
+    "harvest": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "fertilization": [
+      {
+        "stage": "定植後追肥",
+        "months": [
+          9,
+          10
+        ]
+      }
+    ],
+    "notes": "需良好排水與日照",
+    "sources": [
+      "作物施肥手冊（蔥類）"
+    ]
+  }
+]

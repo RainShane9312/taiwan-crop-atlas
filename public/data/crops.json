@@ -1,0 +1,14 @@
+﻿[
+  {
+    "regionId":"NTP","crop":"水稻","sowing":[2,3],"harvest":[7,8,11],
+    "fertilization":[{"stage":"基肥","months":[2]}]
+  },
+  {
+    "regionId":"TXG","crop":"甘藷","sowing":[3,4],"harvest":[7,8,9],
+    "fertilization":[{"stage":"追肥","months":[4,5]}]
+  },
+  {
+    "regionId":"KHH","crop":"番茄","sowing":[9,10],"harvest":[12,1,2],
+    "fertilization":[{"stage":"開花前追肥","months":[10,11]}]
+  }
+]
